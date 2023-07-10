@@ -6,11 +6,16 @@
 			"tusk": " bash -c 'go install github.com/rliebz/tusk@latest && go run github.com/rliebz/tusk@latest --install-completion bash'"
 		}
 	},
+
 	"customizations": {
 		"vscode": {
+			"settings": {
+				"workbench.colorTheme": "Yi Dark"
+			   },
 			"extensions": [
 				"antfu.browse-lite",
-				"phu1237.vs-browser"
+				"phu1237.vs-browser",
+				"wangweixuan.yithemes"
 			]
 		}
 	}
