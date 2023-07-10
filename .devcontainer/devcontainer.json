@@ -2,20 +2,15 @@
 	"image": "dcr.lb.run/hub/chadmoon/mcr.microsoft.com.devcontainers.universal:2",
 	"features": {
 		"ghcr.io/wxw-matt/devcontainer-features/command_runner:0": {
-			"docker-chrome": " bash -c 'curl -L https://gist.githubusercontent.com/moondev/dd3dfa79cb712e145bf263a324076f71/raw/docker-chrome.sh | bash'",
-			"tusk": " bash -c 'go install github.com/rliebz/tusk@latest && go run github.com/rliebz/tusk@latest --install-completion bash'"
+			"docker-chrome": "bash -c 'curl -L https://gist.githubusercontent.com/moondev/dd3dfa79cb712e145bf263a324076f71/raw/docker-chrome.sh | bash'"
 		}
 	},
 
 	"customizations": {
 		"vscode": {
-			"settings": {
-				"workbench.colorTheme": "Yi Dark"
-			   },
 			"extensions": [
 				"antfu.browse-lite",
-				"phu1237.vs-browser",
-				"wangweixuan.yithemes"
+				"phu1237.vs-browser"
 			]
 		}
 	}
