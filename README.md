@@ -1,5 +1,7 @@
 # ctr
 
+[a relative link](test.yaml#L1-L5)
+
 [a relative link](test.yaml)
 
 ./blob/90a6147a7fe1074be384f888f65c4cad681d2cbd/test.yaml#L1-L5
