@@ -1,5 +1,7 @@
 # ctr
 
+https://github.com/moondev/ctr/blob/2df8131e4772eb516fa2e638d07aef0126995c15/gantt.mermaid
+
 [blob link](blob:https://github.com/92c46c6f-de69-4f8c-807a-da50b6c86c0d)
 
 
