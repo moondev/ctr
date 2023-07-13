@@ -4,6 +4,8 @@ https://github.com/moondev/ctr/blob/7fb3ace914bdc97a4650805123553a1077da4dca/tes
 
 https://github.com/moondev/ctr/blob/150c676ad58c2c6e909ab1eca9100c2a8c4b5664/other.md?plain=1#L1
 
+https://github.com/google/WebFundamentals/blame/168c0a6f93dc3cce6772ccc3f78cbef92910b1e6/src/content/en/fundamentals/app-install-banners/index.md#L32-L39
+
 blob:https://github.com/92c46c6f-de69-4f8c-807a-da50b6c86c0d
 
 https://github.com/moondev/ctr/blob/336727d2921c86e8d660d9a37361331aaa767b54/gantt.mermaid#L1
