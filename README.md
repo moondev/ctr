@@ -1,5 +1,8 @@
 # ctr
 
+[blob link](blob:https://github.com/92c46c6f-de69-4f8c-807a-da50b6c86c0d)
+
+
 [a relative link](test.yaml#L1-L5)
 
 [a relative link](test.yaml)
